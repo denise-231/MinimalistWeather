@@ -1,4 +1,4 @@
-package com.baronzhang.android.library.util.lifecycle;
+<i>package com.baronzhang.android.library.util.lifecycle;
 
 /**
  * @author baronzhang (baron[dot]zhanglei[at]gmail[dot]com)
